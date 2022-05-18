@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>What is a species?</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d64204bd-d8f5-43f5-abb1-36a1ceefc250</md:uuid>
+</metadata>
+
+  <content>
+
+<media id="idm82560" alt="" display="block"><image src="../../media/species_pix_header3.png" mime-type="image/png" width="100%"/></media>
+
+
+<section id="recent_research">
+<title>Recent Research</title>
+<para id="research1">
+Scientists are refining their taxonomic strategies in the hope of developing a standardized method of classifying, identifying, and describing the evolutionary history of species.  The following links will take you to original research addressing these issues.  <list id="research2">
+
+<item><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">DNA Barcodes and Bird Identification, <emphasis>PLoS Biology</emphasis></link></item>
+
+<item><link url="http://www.pnas.org/cgi/content/full/101/41/14812?maxtoshow=&amp;HITS=10&amp;hits=10&amp;RESULTFORMAT=&amp;fulltext=DNA+Barcode&amp;searchid=1107543176414_5552&amp;stored_search=&amp;FIRSTINDEX=0&amp;journalcode=pnas">DNA Barcodes and New Butterfly Species, <emphasis>PNAS</emphasis></link></item>
+
+<item><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0030009">New Zealand's Extinct Giant Eagle, <emphasis>PLoS Biology</emphasis></link></item>
+
+<item><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020442">New Tiger Subspecies, <emphasis>PLoS Biology</emphasis></link></item>
+
+<item><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0000006">Conservation of Asian Elephants, <emphasis>PLoS Biology</emphasis></link></item>
+</list>
+</para>
+
+
+</section>
+<section id="Species">
+      <title>How do scientists identify and name species?</title>
+      <para id="Species1">
+<term>What is a species?</term>
+	Scientists don't agree on the exact definition of a species. 
+Read about <link url="http://evolution.berkeley.edu/evosite/evo101/VADefiningSpecies.shtml">
+species concepts</link> on this UC Berkeley site.
+      </para>
+
+<para id="Taxonomy1"> <term>What is taxonomy?</term>  Taxonomists name and classify living things, so they play an important role in determining how we define species.  Read more about <link url="http://www.visionlearning.com/library/module_viewer.php?mid=70">taxonomy</link> at this Vision Learning website.
+</para>    
+
+    <para id="linneaus1">
+      <term>Who was Linnaeus?</term>  Read about the taxonomist <link url="http://www.ucmp.berkeley.edu/history/linnaeus.html">Linnaeus</link> on this UC Berkeley site.
+    </para>   
+
+<para id="Classify1">
+<note type="PBS NOVA Interactive" id="idp1097728"><label>PBS NOVA Interactive</label>
+    Try your hand at classifying living things using <link url="http://www.pbs.org/wgbh/nova/orchid/classifying.html">Linnaeus's method</link>.
+</note>
+</para>   
+
+<para id="currentclassification">
+<term>What are the current approaches to classification?</term>  Scientists today use morhological (physical) traits, embryology (patterns of development), and molecular biology to identify species.
+<note type="PBS Interactive" id="idp2246592"><label>PBS Interactive</label>
+Classify organisms using <link url="http://www.pbs.org/wgbh/evolution/change/family/index.html">current methods</link> in this activity.
+</note>
+
+</para>
+
+<para id="museum">
+<term>Can't get to a museum?</term> Visit the Zoological Museum Amsterdam in the Netherlands online and check out hundreds of <link url="http://ip30.eti.uva.nl/zma3d/">3-D bird specimens</link> online.
+</para>
+
+
+</section>
+
+
+
+<section id="yourturn">
+<title>Your turn...</title>
+<para id="question1">
+<list id="discussion">
+<item>Why is the naming and classifying of species so difficult?</item>
+<item>What are the advantages and disadvantages of different methods?</item>
+<item>If you could create your own classification system, what factors would you consider?</item>
+</list>
+
+</para>
+<para id="detail">  <term> Digging Deeper:</term>  Want more detail about how classification, taxonomy, and evolution are related?  <link url="http://www.ncbi.nlm.nih.gov/About/primer/phylo.html">The National Center for Biotechnology Information</link> provides a very thorough explanation.
+</para>
+
+</section>
+
+  </content>
+  
+</document>

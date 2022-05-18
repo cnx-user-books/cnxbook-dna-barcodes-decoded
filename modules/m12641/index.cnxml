@@ -1,0 +1,74 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Current Research: DNA Barcode Synopsis</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>dbdb8bd2-74ef-4f39-ab61-dece2ccba0b8</md:uuid>
+</metadata>
+
+  <content>
+	<media id="idm6957056" alt="" display="block"><image src="../../media/hebert-synopsis.bmp" mime-type="image/bmp" width="100%"/></media>
+
+<section id="intro">
+      <title>A Test Case for DNA Barcodes to Identify Species, by Liza Gross</title>
+      <para id="List1"><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020357">Citation: (2004) A Test Case for DNA Barcodes to Identify Species. PLoS Biol 2(10): e357.  DOI: 10.1371/journal.pbio.0020357</link>
+	<list id="intro_list" list-type="bulleted">
+	  <item><term target-id="para1">How were species identified in the past?</term></item>
+	  <item><term target-id="para2">How would a DNA Barcode change species identification?</term></item>
+<item><term target-id="para5">How did Hebert and colleagues use DNA Barcodes?</term></item>
+<item><term target-id="para7">What other studies are needed?</term></item>
+	</list>
+      </para>
+    </section>
+    <para id="para1">
+       <!-- Insert module text here -->
+One hundred years before Darwin returned from his voyage on the <emphasis>H. M. S. Beagle</emphasis> “struck with certain facts” that “seemed to throw some light on the origin of species,” Linnaeus published the first systematic taxonomy of life. In <emphasis>Systema Naturae</emphasis>, the Swedish botanist divided organisms into plants, animals, and minerals, eventually assigning scientific names to 7,700 plant and 4,400 animal species, and popularizing the binomial system—as in <emphasis>Homo sapiens</emphasis>—of naming species. 
+
+
+
+  </para>   
+    <para id="para2">
+In the 1700s and 1800s, naturalists classified organisms based on morphology, devoting their careers to naming newfound plants and animals. Today biologists still use Linnaean taxonomy as the foundation of scientific classification. But with just a fraction of the estimated 5–30 million species on the planet already named and too few specialists to do the job, biologists are looking for high-throughput tools that can rapidly and accurately identify both individuals of a species and entirely new species. That's what some scientists say the DNA barcode will do. The DNA barcode, as the name implies, uses genes to identify species much like supermarket barcodes identify products. The idea is that a short stretch of genetic code from a reference gene is unique enough to one species to distinguish it from every other species, and that comparisons of sequence variations in that stretch of gene can reveal evolutionary relationships among species.
+
+<figure id="fig3">
+	<media id="idm9552" alt=""><image src="../../media/Darwin_Voyage_Sketch.jpg" mime-type="image/jpeg"/></media>
+	<caption>
+	  <link url="http://pages.britishlibrary.net/charles.darwin/texts/beagle_voyage/beagle01.html"><emphasis>Read excerpts from Darwin's journal.</emphasis></link> 
+
+	</caption>
+      </figure>
+  </para>   
+    <para id="para3">
+Such technology could radically advance biologists' attempts to achieve the long-standing goal of cataloging life on earth, but the approach is controversial, with critics questioning both the method and its applications. (For more on the debate, see <link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020354">“DNA Barcoding: Promise and Pitfalls”</link>.) Paul Hebert and colleagues offer a <link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">proof of the utility of the DNA barcoding concept</link>, using a 648-basepair region of a mitochondrial gene (cytochrome c oxidase I, or COI) in a study of 260 North American bird species.
+  </para>   
+    <para id="para4">
+Mitochondria—the cell's power generators—contain their own DNA, and mitochondrial DNA (mtDNA) evolves much faster than nuclear DNA. It evolves so quickly, in fact, that mtDNA sequence variation has been found not just between closely related, or sister, species but also within species. Still, the variation is much greater among than within species, which is why mtDNA divergences have become a tool for identifying species.
+  </para>   
+    <para id="para5">
+Hebert and colleagues tested the effectiveness of the mtDNA COI barcode by matching bird species flagged by the COI barcode against those already established by taxonomic methods. The litmus test for DNA barcoding is absence of COI sequence overlap between species. Beyond that, differences within species should be significantly fewer than those between species. And that's what the researchers found. All 260 species had unique COI barcodes, with differences between species for the most part much more frequent—on average, 18 times more common—than those within species. In the 130 species represented by two or more individuals, COI sequences were either identical or closest to other sequences within that species. For these 260 bird species (of the 667 bird species that breed in North America), the authors report, the COI barcodes “separate individuals into the categories that taxonomists call species.”
+  </para>   
+    <para id="para6">
+The COI barcode, the authors propose, could help resolve problematic classifications based on morphology, as arise when populations of a single species acquire distinct characteristics after geographic barriers prevent their interbreeding. For example, the similar COI sequences found in American and black oystercatchers here support taxonomic studies suggesting that they are actually color morphs of one species. And conversely, highly divergent COI sequences might bolster taxonomic studies indicating that lineages of uncertain status are indeed distinct species.  
+  </para>   
+    <para id="para7">
+Future studies will have to determine whether these results can be generalized to animals in other climes and ecosystems, but the authors argue that constructing a comprehensive library of barcodes will facilitate such efforts. Hebert and colleagues conclude that the success of DNA barcoding depends not only on such a repository—with sequences pegged to well-characterized species exemplars—but also on the expertise of trained taxonomists. The hope is that large-scale, standardized testing based on a uniform barcode sequence could go a long way toward finishing what Linnaeus started: a full classification of all plant and animal life. To E. O. Wilson, every species is “a masterpiece of evolution, offering a vast source of useful scientific knowledge because it is so thoroughly adapted to the environment in which it lives.” Faced with what Wilson calls the “worst wave of extinction since the dinosaurs died,” the need for a fast and easy way to identify species has never been greater.
+
+    </para>   
+<section id="Source">
+      <title>Source</title>
+
+    <para id="Source4">
+<link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020357">Citation: (2004) A Test Case for DNA Barcodes to Identify Species. PLoS Biol 2(10): e357.</link>
+</para>
+    <para id="Source1">
+DOI: 10.1371/journal.pbio.0020357
+</para>
+    <para id="Source2">
+Published September 28, 2004
+</para>
+    <para id="Source3">
+
+Copyright: © 2004 Public Library of Science. This is an open-access article distributed under the terms of the <link url="http://creativecommons.org/licenses/by/1.0/">Creative Commons Attribution License</link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+</para>
+
+    </section>
+  </content>
+  
+</document>

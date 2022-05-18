@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Current Research: DNA Barcode Abstract</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>85553878-f372-476b-9d84-3fd29bf7e93b</md:uuid>
+</metadata>
+
+  <content>
+
+  <media id="idm631040" alt="" display="block"><image src="../../media/hebert-abstract.bmp" mime-type="image/bmp" width="100%"/></media>
+
+<section id="introduction">
+<title>Identification of Birds through DNA Barcodes</title>
+    <para id="intro1">
+<emphasis><link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">Hebert et al. DOI: 10.1371/journal.pbio.0020312</link></emphasis>
+    </para>   
+<para id="abstract1">
+<term>ABSTRACT</term> Scientific papers usually begin with an <link url="http://en.wikipedia.org/wiki/Abstract_%28summary%29">abstract</link>, which is a summary of the work.  Here, the abstract has been annotated in italics to enhance your understanding.  </para>
+<para id="abstract2">
+<term><emphasis>What's the research topic?</emphasis></term>  Short <link url="http://www.genome.gov/glossary.cfm?key=deoxyribonucleic%20acid%20%28DNA%29">DNA</link> sequences from a standardized region of the <link url="http://www.genome.gov/glossary.cfm?key=genome">genome</link> provide a <link url="http://en.wikipedia.org/wiki/DNA_barcode">DNA barcode</link> for identifying species. Compiling a public library of DNA barcodes linked to named specimens could provide a new master key for identifying <link url="http://en.wikipedia.org/wiki/Species">species</link>, one whose power will rise with increased <link url="http://en.wikipedia.org/wiki/Taxon">taxon</link> coverage and with faster, cheaper <link url="http://www.genome.gov/glossary.cfm?key=DNA%20sequencing">sequencing</link>. 
+</para>
+<para id="abstract3">
+<term><emphasis>What previous work has been done?</emphasis></term>  Recent work suggests that <link url="http://www.genome.gov/glossary.cfm?key=DNA%20sequencing">sequence</link> diversity in a 648-<link url="http://www.genome.gov/glossary.cfm?key=base%20pair">base pair</link> region of the <link url="http://www.genome.gov/glossary.cfm?key=mitochondrial%20DNA">mitochondrial gene</link>, cytochrome c oxidase I (COI), might serve as a DNA barcode for the identification of animal species. 
+</para>
+<para id="abstract4">
+<term><emphasis>What did this study do?</emphasis></term>  This study tested the effectiveness of a COI barcode in discriminating bird species, one of the largest and best-studied <link url="http://en.wikipedia.org/wiki/Vertebrate">vertebrate</link> groups. 
+</para>
+<para id="abstract5">
+<term><emphasis>What were the results?</emphasis></term>  We determined COI barcodes for 260 species of North American birds and found that distinguishing species was generally straightforward. All species had a different COI barcode(s), and the differences between closely related species were, on average, 18 times higher than the differences within species. Our results identified four probable new species of North American birds, suggesting that a global survey will lead to the recognition of many additional bird species. The finding of large COI sequence differences between, as compared to small differences within, species confirms the effectiveness of COI barcodes for the identification of bird species. 
+</para>
+<para id="abstract6">
+<term><emphasis>What are the implications of this sudy?</emphasis></term>  This result plus those from other groups of animals imply that a standard screening threshold of sequence difference (10× average intraspecific difference) could speed the discovery of new animal species. The growing evidence for the effectiveness of DNA barcodes as a basis for species identification supports an international exercise that has recently begun to assemble a comprehensive library of COI sequences linked to named specimens.
+</para>   
+
+</section>
+
+<section id="yourturn">
+<title>Your turn...</title>
+<para id="yourturn1">
+<list id="yourturn2">
+<item>What was the purpose of this research?</item>
+<item>What are the implications of the study?</item>
+<item>What future research could be done on this same topic?</item>
+</list>
+</para>
+</section>
+
+
+<section id="source">
+<title>Original Research Source</title>
+<para id="source2">
+<link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">Citation: Hebert PDN 1, Stoeckle MY 2, Zemlak TS 1, Francis CM 3 (2004) Identification of Birds through DNA Barcodes. PLoS Biol 2(10): e312.</link>
+</para>
+    <para id="source3">
+1 Department of Zoology, University of Guelph, Guelph, Ontario, Canada, 2 Program for the Human Environment, Rockefeller University, New York, New York, United States of America, 3 National Wildlife Research Centre, Canadian Wildlife Service, Ottawa, Ontario, Canada 
+</para>
+    <para id="source4">
+DOI: 10.1371/journal.pbio.0020312  
+</para>
+<para id="source5">
+Copyright: © 2004 Hebert et al. This is an open-access article distributed under the terms of the <link url="http://creativecommons.org/licenses/by/1.0/">Creative Commons Attribution License</link>, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+</para>
+</section>
+
+
+  </content>
+  
+
+
+</document>

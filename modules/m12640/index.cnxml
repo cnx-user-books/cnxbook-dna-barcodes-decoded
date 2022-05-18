@@ -1,0 +1,254 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:q="http://cnx.rice.edu/qml/1.0">
+
+  <title>Current Research: DNA Barcode Results</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>17846a17-921f-4342-8e3b-2870c79a911b</md:uuid>
+</metadata>
+
+  <content>
+   <media id="idm1421536" alt="" display="block"><image src="../../media/hebert-fig1.bmp" mime-type="image/bmp" width="100%"/></media>
+<section id="quiz">
+      <title>Interpreting Results</title>
+
+<figure id="fig3">
+<title>Comparison of DNA differences among North American Birds</title>
+	<media id="idm8015648" alt=""><image src="../../media/Barcode-Figure-1.gif" mime-type="image/gif" height="400" width="350"/></media>
+	<caption>
+	  Figure 1. Comparison of Nucleotide Sequence Differences in COI among 260 Species of North American birds <emphasis>Adapted from: <link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">Hebert PDN, Stoeckle MY, Zemlak TS, Francis CM (2004) Identification of Birds through DNA Barcodes. PLoS Biol 2(10): e312.</link></emphasis>
+	</caption>
+      </figure>
+
+    <para id="originalcaption">
+
+<term>The original research paper states:</term>  <emphasis>"Pairwise comparisons between 437 COI sequences are separated into three categories: differences between individuals in the same species, differences between individuals in the same genus (not including intraspecific differences), and differences between individuals in the same family (not including intraspecific or intrageneric differences)."</emphasis>  
+    </para>   
+
+<para id="figure_explanation">
+<term>What does the figure mean?</term>  Researchers used the <link url="http://www.genome.gov/10002096">DNA sequence</link> from the COI <link url="http://www.genome.gov/10002096">gene</link> in birds to figure out if the COI gene is useful as a DNA barcode-- in other words, a unique identifier for bird species.  
+</para>
+<para id="figexp2">
+For the "Within Species" analysis (top panel), researchers compared one bird's 640-<link url="http://www.genome.gov/10002096">base pair</link> COI sequence with another sequence from a bird of the same species.  They recorded the number of differences between the two sequences (identical sequences would have zero differences, whereas completely different sequences would have 640 differences).  
+</para>
+<para id="figexp2a">
+They repeated this for all of their bird sequences.  These comparisons are called "pairwise" because the data they recorded was based on each pair of sequences compared.  In the graph, the x-axis shows the number of differences between sequences, and the y-axis shows the percentage of comparisons.  
+</para>
+
+<para id="figexp3">
+For the "Within Genus" analysis (middle panel), researchers compared one bird COI sequence with all the others of the same genus.  Again, they recorded the number of differences between the sequences, and then repeated this analysis for all the sequences.  Since members of the same genus might also be members of the same species, they didn't count those comparisons.  The same method was used for "Within Family" comparisons.</para>
+
+<para id="figure_q">
+      <exercise id="fig2">
+	<q:item type="single-response" id="fig1e2">
+	  <q:question>
+What percentage of pairwise comparisons within species found zero differences?
+	  </q:question>
+	  <q:answer id="fig1e2a1">
+	    <q:response>
+0%
+	    </q:response>
+	    <q:feedback>
+Hint: The x-axis shows the number of differences in COI sequence comparisons.
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="fig1e2a2">
+	    <q:response>
+94%
+	    </q:response>
+	    <q:feedback>
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="fig1e2a3">
+	    <q:response>
+0.43%
+	    </q:response>
+	    <q:feedback>
+Hint: The x-axis shows the number of differences in COI sequence comparisons.
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="fig1e2a2"/>
+</q:item>
+      </exercise>
+
+      <exercise id="q2">
+	<q:item type="single-response" id="q1e2">
+	  <q:question>
+Estimate the average number of sequence differences within species.
+	  </q:question>
+	  <q:answer id="q1e2a1">
+	    <q:response>
+About 94
+	    </q:response>
+	    <q:feedback>
+Hint: Which axis shows number of sequence differences?
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="q1e2a2">
+	    <q:response>
+About 8
+	    </q:response>
+	    <q:feedback>
+Hint: Which axis shows number of sequence differences?
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="q1e2a3">
+	    <q:response>
+Less than 1
+	    </q:response>
+	    <q:feedback>
+Congratulations!  The average nucleotide sequence differentiation within species was only 0.43%.
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="q1e2a3"/>
+</q:item>
+      </exercise>
+
+</para>
+
+
+      <exercise id="q1">
+	<q:item type="single-response" id="q1e1">
+	  <q:question>
+Which group had the least amount of sequece variation at this gene?
+	  </q:question>
+	  <q:answer id="q1e1a1">
+	    <q:response>
+Family
+	    </q:response>
+	    <q:feedback>
+Hint: What was the average sequence variation for each group?
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="q1e1a2">
+	    <q:response>
+Genus
+	    </q:response>
+	    <q:feedback>
+Hint: What was the average sequence variation for each group?	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="q1e1a3">
+	    <q:response>
+Species
+	    </q:response>
+	    <q:feedback>
+Congratulations!  The average nucleotide sequence differentiation within species was only 0.43%, compared with 7.93% within genus and 12.71% within family.  
+	    </q:feedback>
+	  </q:answer>
+	  <q:key answer="q1e1a3"/>
+</q:item>
+      </exercise>
+
+      <exercise id="q3">
+	<q:item type="single-response" id="q1e3">
+	  <q:question>
+COI sequence comparisons within families had between:
+	  </q:question>
+	  <q:answer id="q1e3a1">
+	    <q:response>
+0-8 differences.
+	    </q:response>
+	    <q:feedback>
+Hint: Which axis shows the number of differences between COI sequences?
+	    </q:feedback>
+	  </q:answer>
+
+	  <q:answer id="q1e3a3">
+	    <q:response>
+1-16 differences.
+	    </q:response>
+	    <q:feedback>
+Hint: Which axis shows the number of differences between COI sequences?
+	    </q:feedback>
+	  </q:answer>
+	  <q:answer id="q1e3a2">
+	    <q:response>
+5-20 differences.
+	    </q:response>
+	    <q:feedback>
+Congratulations!  Within family, COI sequences had at least five (and up to 20) differences.  
+</q:feedback>
+	  </q:answer>
+	  <q:key answer="q1e3a2"/>
+</q:item>
+      </exercise>
+
+
+      <exercise id="q5">
+	<q:item type="single-response" id="q5e5">
+	  <q:question>
+Which of the following statements best supports the use of the COI gene as a barcode to identify species?	  </q:question>
+	  <q:answer id="q5e5a1">
+	    <q:response>
+94% of comparisons within species found zero differences.
+	    </q:response>
+	    <q:feedback>
+Congratulations!  Because the COI sequence is nearly identical within species, it appears that COI could be used to distinguish between bird species.  
+	    </q:feedback>
+	  </q:answer>
+
+	  <q:answer id="q5e5a2">
+	    <q:response>
+The average number of differences for within genus comparisons was 7.93.
+	    </q:response>
+	    <q:feedback>What is the purpose of a DNA Barcode?
+</q:feedback>
+	  </q:answer>
+
+	  <q:answer id="q5e5a3">
+	    <q:response>
+The average number of differences for within family comparisons was 12.71.
+	    </q:response>
+	    <q:feedback>
+What is the purpose of a DNA Barcode?
+</q:feedback>
+	  </q:answer>
+
+	  <q:key answer="q5e5a1"/>
+</q:item>
+      </exercise>
+
+
+</section>
+
+
+
+<section id="yourturn">
+<title>Your turn...</title>
+
+<list id="yourturn1">
+
+<item>How does this graph support the use of DNA barcodes to identify species?</item>
+<item>What about the 6% of individuals that <emphasis>did</emphasis> differ from others in the same species?</item>
+<item>Is there any other information would you want to know before using DNA barcodes to identify species?</item>
+
+</list>
+
+
+</section>
+
+<section id="source">
+<title>Source</title>
+
+<para id="source1">
+Identification of Birds through DNA Barcodes
+</para>
+
+<para id="source2">
+Paul D. N. Hebert1* , Mark Y. Stoeckle2 , Tyler S. Zemlak1 , Charles M. Francis3 
+</para>
+
+<para id="source3">
+1 Department of Zoology, University of Guelph, Guelph, Ontario, Canada, 2 Program for the Human Environment, Rockefeller University, New York, New York, United States of America, 3 National Wildlife Research Centre, Canadian Wildlife Service, Ottawa, Ontario, Canada 
+</para>
+
+<para id="source4">
+DOI: 10.1371/journal.pbio.0020312 Copyright: © 2004 Hebert et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+</para>
+
+<para id="source5">
+Citation: <link url="http://www.plosbiology.org/plosonline/?request=get-document&amp;doi=10.1371%2Fjournal.pbio.0020312">Hebert PDN, Stoeckle MY, Zemlak TS, Francis CM (2004) Identification of Birds through DNA Barcodes. PLoS Biol 2(10): e312.</link>
+</para>
+
+</section>
+
+  </content>
+  
+</document>
